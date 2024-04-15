@@ -1,0 +1,5 @@
+## Projects Developed
+
+1. Take Blip project: https://app.powerbi.com/view?r=eyJrIjoiYjI3N2MxZmMtMDNmZC00YjI4LWJlODktMmI2NmQ0YzJlYWZmIiwidCI6IjYxM2Y2OWM0LTkyOTQtNDMxZS04ZWEyLThiN2Q1NWUxYzczZCJ9
+2. PecSmart project: https://app.powerbi.com/view?r=eyJrIjoiMjkxZGEzZWItNWZmYS00Njc2LThmMzMtNDMyZDlhMjkzNWQ5IiwidCI6IjYxM2Y2OWM0LTkyOTQtNDMxZS04ZWEyLThiN2Q1NWUxYzczZCJ9
+3. Eleflow project : https://app.powerbi.com/view?r=eyJrIjoiM2YwZGQ0NzEtNjg2Yi00NGM3LTgxOWYtM2I1ZTNmMjAxNzAxIiwidCI6IjYxM2Y2OWM0LTkyOTQtNDMxZS04ZWEyLThiN2Q1NWUxYzczZCJ9
